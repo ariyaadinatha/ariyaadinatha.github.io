@@ -29,6 +29,11 @@ Then clone it to your local machine and run:
 ```
 $ bundle
 ```
+Run it locally:
+```
+$ bundle exec jekyll s
+```
+
 
 ## Usage
 
