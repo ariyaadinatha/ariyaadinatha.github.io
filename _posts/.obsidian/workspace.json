@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "ded6e4ae9608fdb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b432955b07f0d74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "829fcc7c41196aec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d1aa86a6d2bce0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "892684acf4aa56ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3a0ac6d4a760d13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d91c8d08363e470",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a323d1f140d83153",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "48ee81c6eff73d5b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f055e0ee6bec177d",
+    "type": "split",
+    "children": [
+      {
+        "id": "73c6a06248056610",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb6f452aef5cb0fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1feb6b80f27757c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2886c64fa47edcdb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c0aa69c2425e25ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "1d91c8d08363e470",
+  "lastOpenFiles": [
+    "2023-07-28-hello-world.md",
+    "2023-07-28-hello-world.md",
+    "Template/post.md",
+    "2023-07-28-.md",
+    "Scripts/slug.js",
+    "Untiaasdasdasdtled.md",
+    "2023-07-28prefix-.md",
+    "2023-07-27prefix-.md",
+    "2023-06-12-intro-to-security.md",
+    "Scripts",
+    "2023-07-25-intro-to-web-security.md",
+    "Template"
+  ]
+}

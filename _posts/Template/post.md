@@ -1,11 +1,11 @@
 ---
-title: Writing a New Post
-author:
-date: 2019-08-08 14:10:00 +0800
-categories: [Blogging, Tutorial]
-tags: [writing]
+title: <% tp.file.title %>
+date: <% tp.date.now() %> <% tp.date.now("HH:mm:ss") %>
+categories: []
+tags: []
 render_with_liquid: false
 ---
+<% tp.file.rename(tp.date.now() + "-" + tp.user.slug(tp.file.title)) %>
 
 This tutorial will guide you how to write a post in the _Chirpy_ template, and it's worth reading even if you've used Jekyll before, as many features require specific variables to be set.
 
