@@ -2,7 +2,7 @@
 title: <% tp.file.title %>
 date: <% tp.date.now() %> <% tp.date.now("HH:mm:ss") %>
 categories: []
-tags: []
+tags: [Cyber Security]
 render_with_liquid: false
 ---
 <% tp.file.rename(tp.date.now() + "-" + tp.user.slug(tp.file.title)) %>

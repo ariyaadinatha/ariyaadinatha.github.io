@@ -1,6 +1,6 @@
 ---
 title: Introduction to Website Security
-categories: [Intro to Security]
+categories: [Intro to Security, Website Security]
 tags: [Cyber Security]
 render_with_liquid: false
 ---
