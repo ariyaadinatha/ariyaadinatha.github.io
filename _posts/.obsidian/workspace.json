@@ -20,16 +20,19 @@
             }
           },
           {
-            "id": "f3cd9d96202b9b2d",
+            "id": "8dd646f792a4cf3f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/img/Network Security/three way handshake.png"
+                "file": "Network Security/2023-07-27-introduction-to-network.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,13 +160,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9f82b3d259fad516",
+  "active": "1d91c8d08363e470",
   "lastOpenFiles": [
-    "Tools/Wireshark/2023-07-29-wireshark-basic-commands.md",
+    "Network Security/2023-07-30-denial-of-service.md",
+    "assets/img/Network Security/ddos.png",
     "Network Security/2023-07-27-introduction-to-network.md",
+    "Template/post.md",
+    "assets/img/Network Security/drdos.png",
+    "2023-07-25-intro-to-web-security.md",
+    "2023-06-12-intro-to-security.md",
+    "Template/template.md",
+    "Tools/Wireshark/2023-07-29-wireshark-basic-commands.md",
     "assets/img/Network Security/four way handshake.png",
     "assets/img/Network Security/three way handshake.png",
-    "2023-06-12-intro-to-security.md",
     "Tools/Wireshark",
     "Untitled 1",
     "Tools",
@@ -171,17 +180,14 @@
     "assets/img/Network Security/ipv4.png",
     "assets/img/Network Security/ipv4.png.png",
     "assets/img/Network Security/ipv4.png.md",
-    "2023-07-25-intro-to-web-security.md",
     "assets/img/Network Security",
     "assets/img",
     "assets",
     "Assets/ipv4.png",
-    "Template/post.md",
     "(/path/to/image).md",
     "(/path/to",
     "(/path",
     "(",
-    "Template/template.md",
     "Assets",
     "IPv4.png.md",
     "2023-07-28-hello-world.md",

@@ -120,7 +120,6 @@ Provides reliable point-to-point **communication** between devices on the **same
 
 Divided into two sublayers: 
 * **Logical Link Control** (LLC) handles flow control, error checking, and framing of data.
-
 * **Media Access Control** (MAC) responsible for addressing devices on the network using MAC addresses and controlling access to the physical transmission medium.
 
 Protocol used:

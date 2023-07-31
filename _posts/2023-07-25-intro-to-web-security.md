@@ -11,7 +11,7 @@ A web server is a software application that responsible for serving web content 
 ## HTTP
 HTTP (Hypertext Transfer Protocol) is an application layer protocol used for communication between web browsers (clients) and web servers. It is the foundation of data communication on the World Wide Web and is used to request and deliver web pages, images, videos, and other resources.
 
-#### *Characteristic*
+### Characteristic
 * **Stateless**: Each HTTP request-response cycle is independent and does not retain any state information between requests. This means that the server does not keep track of past interactions with the client.
 * **Connectionless**: Each HTTP request-response pair typically uses a separate connection between the client and the server. The connection is opened and closed for each request-response cycle.
 * **Text-Based**: HTTP messages are in plain text format, making them human-readable. Each message consists of a request or response line, headers, and an optional message body.
