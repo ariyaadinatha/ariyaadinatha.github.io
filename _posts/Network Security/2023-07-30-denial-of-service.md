@@ -2,7 +2,7 @@
 title: Denial of Service
 date: 2023-07-30 20:42:05
 categories: [Network Security]
-tags: [Cyber Security]
+tags: [Cyber Security, Network]
 render_with_liquid: false
 ---
 

@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f82b3d259fad516",
+            "id": "753a47f36502e202",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Security/2023-07-27-introduction-to-network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8dd646f792a4cf3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Security/2023-07-27-introduction-to-network.md",
+                "file": "Malware/2023-08-08-malware-transcript.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Security/2023-07-27-introduction-to-network.md",
+                "file": "Malware/2023-08-08-malware-transcript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Security/2023-07-27-introduction-to-network.md",
+                "file": "Malware/2023-08-08-malware-transcript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Security/2023-07-27-introduction-to-network.md"
+                "file": "Malware/2023-08-08-malware-transcript.md"
               }
             }
           }
@@ -160,35 +147,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1d91c8d08363e470",
+  "active": "753a47f36502e202",
   "lastOpenFiles": [
+    "assets/img/Malware/malware310.png",
+    "assets/img/Malware/malware317.png",
+    "assets/img/Malware/malware316.png",
+    "assets/img/Malware/malware314.png",
+    "assets/img/Malware/malware313.png",
+    "assets/img/Malware/malware312.png",
+    "assets/img/Malware/malware311.png",
+    "assets/img/Malware/malware39.png",
+    "assets/img/Malware/malware38.png",
+    "assets/img/Malware/malware37.png",
+    "assets/img/Malware/malware36.png",
+    "assets/img/Malware/malware5.png.md",
+    "Malware/2023-08-08-malware-transcript.md",
+    "Malware/2023-08-07-introduction-to-malware.md",
     "Network Security/2023-07-30-denial-of-service.md",
-    "assets/img/Network Security/ddos.png",
     "Network Security/2023-07-27-introduction-to-network.md",
-    "Template/post.md",
-    "assets/img/Network Security/drdos.png",
+    "assets/img/Malware",
+    "Malware",
     "2023-07-25-intro-to-web-security.md",
     "2023-06-12-intro-to-security.md",
+    "Tools/Wireshark/2023-07-31-wireshark-basics.md",
+    "Operating System/2023-08-01-windows-fundamental.md",
+    "Operating System",
+    "Template/post.md",
     "Template/template.md",
     "Tools/Wireshark/2023-07-29-wireshark-basic-commands.md",
-    "assets/img/Network Security/four way handshake.png",
-    "assets/img/Network Security/three way handshake.png",
     "Tools/Wireshark",
     "Untitled 1",
     "Tools",
-    "assets/img/Network Security/osi layer.png",
-    "assets/img/Network Security/ipv4.png",
-    "assets/img/Network Security/ipv4.png.png",
     "assets/img/Network Security/ipv4.png.md",
     "assets/img/Network Security",
     "assets/img",
     "assets",
-    "Assets/ipv4.png",
     "(/path/to/image).md",
     "(/path/to",
-    "(/path",
-    "(",
-    "Assets",
     "IPv4.png.md",
     "2023-07-28-hello-world.md",
     "2023-07-28-hello-world.md",
