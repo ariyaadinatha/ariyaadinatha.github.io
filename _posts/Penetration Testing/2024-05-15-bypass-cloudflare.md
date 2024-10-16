@@ -1,13 +1,12 @@
 ---
-title: 2024-05-15-bypass-cloud-flare
+title: Bypass CloudFlare
 date: 2024-05-15 21:21:21
 categories:
   - Website Security
   - Penetration Testing
-  - Red Team
-  - Cloud Flare
+  - Offensive
+  - CloudFlare
 tags:
-  - Cyber
   - Security
   - Tricks
   - Tips

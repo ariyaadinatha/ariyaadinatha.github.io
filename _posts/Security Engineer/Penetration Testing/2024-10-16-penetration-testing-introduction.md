@@ -13,7 +13,7 @@ render_with_liquid: false
 ---
 ## Penetration Testing Process
 The essential stages of the penetration testing process, including pre-engagement, information gathering, vulnerability assessment, exploitation, post-exploitation, lateral movement, and proof of concept. Each phase plays a pivotal role in ensuring a thorough evaluation of security measures and enables organizations to proactively address vulnerabilities, enhance their defenses, and ultimately foster a more secure environment.
-![[pentest process flow.png]]
+![Pentest Process Flow](/assets/img/flow.png)
 ### Pre-Engagement
 The pre-engagement stage is where the main commitments, tasks, scope, limitations, and related agreements are documented in writing. During this stage, contractual documents are drawn up, and essential information is exchanged that is relevant for penetration testers and the client, depending on the type of assessment.
 ### Information Gathering
