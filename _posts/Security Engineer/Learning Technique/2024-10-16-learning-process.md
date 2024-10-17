@@ -15,6 +15,7 @@ render_with_liquid: false
 - Progress is noticeable when the question that tortured you has lost its meaning.
 - Focusing is the purposeful and deliberate alignment to a specific goal.
 - Mistakes are an essential part of the learning process.
+
 ## Way of Thinking
 We do not need to learn every programming language to understand how to read their code. All of them follow the same principles which R. D. Tennent initially defined:
 
@@ -41,10 +42,12 @@ Occam's Razor is one of the central principles of modern scientific theory. The 
 1. **Straightforward Theory**: This implies that when faced with multiple explanations for a phenomenon or state of affairs, the theory that is the most straightforward or simple is favored.
 2. **Sufficient Explanations**: The quote acknowledges that there can be several possible explanations for the same observed facts. Each of these explanations can be valid in its own right.
 3. **Simplicity and Probability**: The essence of the quote is that simplicity correlates with probability. When explanations are equally valid, the simpler one is more likely to be correct. This is because simpler theories are easier to test and falsify, making them more scientifically useful.
+
 ### Why is Simplicity Preferred?
 - **Ease of Understanding**: Simple theories are easier for people to comprehend and communicate.
 - **Fewer Assumptions**: A simpler theory typically relies on fewer assumptions, reducing the chances of error or oversight.
 - **Testability**: Simple theories are often easier to test through experiments or observations, which can validate or invalidate them more readily.
+
 ### Example in Practice
 Consider two explanations for why a plant is wilting:
 1. The plant is not receiving enough water.
@@ -206,6 +209,7 @@ Another factor often perceived as an obstacle is comparing skill, talent, and pa
 - Talent is a strongly developed skill with high efficiency.
 - Skill is the ability to manage or solve something well.
 - Passion is an emotional commitment to a particular area.
+
 ### Pressure
 A distinction is made between internal and external influences. The internal influences include the beliefs of our mindsets but also our attitudes. Such an attitude or character trait is always a two-sided sword that brings advantages and disadvantages. One of such traits can be perfectionism, for example, which awakens in us the desire to do everything flawlessly, perfectly, and above all, quickly.
 
