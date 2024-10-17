@@ -275,7 +275,7 @@ We need these components to be able to ask any question correctly. To do this, w
 1. We need to find out the core element of the question and insert it as the object.
 2. We must have at least two components defined in the model. More than two components are optional.
 
-![Relationship Oriented Questioning Model](roq.png)
+![Relationship Oriented Questioning Model](/assets/img/roq.png)
 The good thing is that we always already have one component:
 
 - Our position in the question.
@@ -285,7 +285,7 @@ So even for questions that do not directly concern us or about situations we are
 ## Handling Frustration
 Frustration is an emotional reaction to an event, situation, or condition that occurs in the form of disappointment or powerlessness. Most often, such a feeling occurs in varying intensity, depending on expectations or desires. There are two different types of frustration. One is caused by `external influences`, such as negative opinions of superiors, and the other is caused by `inner frustration`, caused by conscious or somewhat subconscious thought processes.
 
-![Frustration Diagram](frustration.png)
+![Frustration Diagram](/assets/img/frustration.png)
 Since we are dealing with frustration here, we can see from the diagram that, in this case, we lack some resources that frustrate us. In information security and pentesting, these kinds of resources will often be information that we have to work with. Perhaps we have already read it several times that "`Enumeration is key`". 
 
 Since we are dealing with the offensive aspects of information security, it is essential that we can get the information by ourselves. This is a skill that must be continuously trained. We will have to deal with different services, sources, and technologies to find out how to get the information we need. The feeling of frustration with a lack of resources depends on our skill. If we do not have the necessary skills, we will feel anxiety, which brings us back to the topic of comfort and comfort zone. We should also understand the connections between the individual topics better to get back to the frustration tolerance level.
