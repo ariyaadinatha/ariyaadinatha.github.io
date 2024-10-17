@@ -1,5 +1,7 @@
-This is your new *vault*.
+This is my learning notes to prepare me in cyber security.
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+**The ultimate goal is to be accepted at MAANG (Meta, Apple, Amazon, Netflix, Google) as a Security Engineer.**
 
-When you're ready, delete this note and make the vault your own.
+The notes will help me to memorize and it will serve as a proof of my **persistence**.
+
+Good luck, i know you can do it. Making the impossible to be possible, no matter what the challenge.
