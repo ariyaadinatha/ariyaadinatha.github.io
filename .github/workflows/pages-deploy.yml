@@ -27,13 +27,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout Primary Repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          # submodules: true
-          # If using the 'assets' git submodule from Chirpy Starter, uncomment above
-          # (See: https://github.com/cotes2020/chirpy-starter/tree/main/assets)
+
+      - name: Checkout Posts from Secondary Repository
+        run: |
+          git clone https://${{ secrets.POSTS_REPO_TOKEN }}@github.com/ariyaadinatha/security-notes.git _posts
+        env:
+          GIT_TERMINAL_PROMPT: 0
 
       - name: Setup Pages
         id: pages
@@ -53,7 +56,7 @@ jobs:
       - name: Test site
         run: |
           bundle exec htmlproofer _site --disable-external --check-html --allow_hash_href
-
+      
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v1
         with:
